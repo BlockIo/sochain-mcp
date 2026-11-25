@@ -1,5 +1,7 @@
 # SoChain MCP server
 
+[![SoChain MCP connector](https://glama.ai/mcp/connectors/com.sochain/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.sochain/mcp)
+
 SoChain's hosted MCP server gives AI agents Bitcoin, Litecoin, Dogecoin and Zcash blockchain data: address balances and transactions, unspent outputs, transactions, blocks and fee quotes. Testnets: BTCTEST (Bitcoin testnet4), LTCTEST, DOGETEST, ZECTEST.
 
 - Endpoint: `https://sochain.com/mcp` (Streamable HTTP)
